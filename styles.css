@@ -43,7 +43,7 @@ button:active{
     color: white;
 }
 
-#body{
+body{
     margin: 0;
     display: flex;
     justify-content: center;
